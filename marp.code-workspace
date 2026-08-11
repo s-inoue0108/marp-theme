@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "Slides",
+			"path": "."
+		},
+		{
+			"name": "Assets",
+			"path": "assets/"
+		},
+		{
+			"name": "Theme",
+			"path": "theme/"
+		},
+	],
+	"settings": {
+		"editor.suggest.showKeywords": false,
+		"editor.suggest.showWords": false,
+		"editor.snippetSuggestions": "top",
+	},
+	"extensions": {
+		"recommendations": [
+			"marp-team.marp-vscode"
+		]
+	}
+}
