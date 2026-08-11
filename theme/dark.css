@@ -173,7 +173,7 @@ pre {
 }
 
 .hljs-comment {
-    color: var(--ctp-overlay0);
+    color: var(--ctp-overlay);
 }
 
 .hljs-keyword,
