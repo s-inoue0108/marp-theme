@@ -110,10 +110,6 @@ section::after {
     font-size: 0.7em;
 }
 
-a {
-    color: var(--accent-bg)
-}
-
 img {
     width: 40%;
     height: auto;
@@ -170,6 +166,10 @@ pre {
     border: none;
     background: var(--ctp-base);
     color: var(--ctp-text);
+}
+
+pre {
+    line-height: 1.3rem;
 }
 
 .hljs-comment {

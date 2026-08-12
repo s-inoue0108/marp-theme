@@ -3,7 +3,7 @@ marp: true
 theme: dark
 paginate: true
 size: 16:9
-footer: "2026/08/11"
+footer: sample slide
 ---
 
 <!-- _class: lead -->
